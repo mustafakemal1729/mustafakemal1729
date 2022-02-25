@@ -2,7 +2,9 @@
 
 ## Electrical & Electronics Engineering graduate, wants to work in the field of artificial intelligence.
 
-### Connect with me:
+![](https://visitor-badge.laobi.icu/badge?page_id=mustafakemal1729.mustafakemal1729) [![Github](https://img.shields.io/github/followers/mustafakemal1729?label=Followers&logo=Github)](https://github.com/mustafakemal1729)
+
+### Find me on:
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="mustafakemal1729 | LinkedIn" width="50px" />](https://www.linkedin.com/in/mustafakemal1729/)
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" align="left" alt="mustafakemal80 | Kaggle" width="50px" />](https://kaggle.com/mustafakemal80)
@@ -20,7 +22,7 @@
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Django" src="https://img.icons8.com/color/40/000000/django.png"/>
-<img align="left" alt="Sql" src="https://img.icons8.com/color/40/000000/sql.png"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img align="left" alt="Tensorflow" width="40px" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.07309df606.svg" />
 <img align="left" alt="Keras" width="40px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/keras_logo_icon_145136.png" />
 
@@ -30,17 +32,13 @@
 
 ---
 
-<details>
-  <summary>GitHub Stats</summary>
+## :trophy: My Github Stats:
 
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mustafakemal1729&count_private=true&theme=tokyonight&showicons=true)]()
-
-</details>
-
-
-<details>
-  <summary>Top Languages</summary>
-
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&langs_count=5&theme=tokyonight)]()
-
-</details>
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&hide=php&theme=dracula" />
+</a>
+</div>
