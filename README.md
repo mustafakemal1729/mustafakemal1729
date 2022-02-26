@@ -34,10 +34,9 @@
 
 ## :trophy: My Github Stats:
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=tokyonight">
-  <img align="left" alt="Mustafa Kemal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=issues&include_all_commits=true" />
-</a>
+  [![Mustafa Kemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=tokyonight)](https://github.com/mustafakemal1729/github-readme-stats)
+
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&hide=php&theme=dracula" />
 </a>
