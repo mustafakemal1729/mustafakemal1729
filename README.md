@@ -2,7 +2,7 @@
 
 ## Electrical & Electronics Engineering graduate, wants to work in the field of artificial intelligence.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=mustafakemal1729.mustafakemal1729) [![Github](https://img.shields.io/github/followers/mustafakemal1729?label=Followers&logo=Github)](https://github.com/mustafakemal1729)
+![](https://visitor-badge.laobi.icu/badge?page_id=mustafakemal1729.mustafakemal1729)
 
 ### Find me on:
 
