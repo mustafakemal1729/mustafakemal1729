@@ -23,7 +23,6 @@
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Django" src="https://img.icons8.com/color/40/000000/django.png"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-<img align="left" alt="Tensorflow" width="40px" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.07309df606.svg" />
 <img align="left" alt="Keras" width="40px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/keras_logo_icon_145136.png" />
 
 
