@@ -7,9 +7,6 @@
 ### Find me on:
 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" align="left" alt="mustafakemal1729 | LinkedIn" width="50px" />](https://www.linkedin.com/in/mustafakemal1729/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" align="left" alt="mustafakemal80 | Kaggle" width="50px" />](https://kaggle.com/mustafakemal80)
-[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" align="left" alt="mustafakemal1729 | Hackerrank" width="50px" />](https://www.hackerrank.com/mustafakemal1729)
-
 <br>
 
 <br>
