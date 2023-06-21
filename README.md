@@ -26,9 +26,3 @@
 <br />
 
 
-
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&hide=php&theme=dracula" />
-</a>
-</div>
