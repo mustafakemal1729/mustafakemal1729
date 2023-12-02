@@ -12,7 +12,7 @@
 </div>
 
 ### 🤖 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/mustafakemal73?theme=unicorn&font=Lusitana)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mustafakemal73?theme=dark&font=Lusitana)
 
 ## 📇 Social & Contact
 
