@@ -13,7 +13,9 @@
 ## 📇 Social & Contact
 
 <div align="left">
-  <a href="mailto:mkemalzahiroglu@gmail.com" target="_blank" rel="noreferrer">
+  
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    <a href="mailto:mkemalzahiroglu@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="mustafakemal E-mail Address" />
   </a>
   <a href="https://www.linkedin.com/in/mustafakemal1729" target="_blank" rel="noreferrer">
@@ -22,6 +24,8 @@
   <a href="https://www.hackerrank.com/mustafakemal73" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="mustafa kemal HackerRank" />
   </a>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 </div>
 
 <br>
@@ -67,7 +71,7 @@
     <img alt="Raspberry-Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 </p>
 
-<h3 align="left">Platforms</h3>
+### 🖥️ Platforms
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -75,6 +79,19 @@
   <img alt="OSX" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/apple-ios-system-platform-os-mac-linux-512.png" width="40" height="40" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakemal1729&show_icons=true&locale=en&layout=compact&theme=radical" alt="mustafakemal1729" /></p>
+### 🐙 Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&show_icons=true&locale=en&theme=radical" alt="mustafakemal1729" /></p>
+ <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mustafakemal" />
+ </p>
+ <p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mustafakemal1729" />
+      </p>
+
+ <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakemal1729&theme=material-palenight&hide_border=false" alt="mustafakemal" width="50%" />
+</p>
+ <br />
+ 
+ 
+  
