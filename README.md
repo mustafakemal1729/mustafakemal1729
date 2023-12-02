@@ -1,10 +1,11 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/2c/af/8c/2caf8c2dbf6d67612314a9808965a2ff.jpg" alt="MasterHead"/>
-  <h1>Who am I</h1>
-  <h4>Electrical & Electronics Engineering graduate with a deep curiosity for the realms of artificial intelligence.</h4>
 </div>
 
-<div align="left">
+<h1>Who am I</h1>
+<h4>Electrical & Electronics Engineering graduate with a deep curiosity for the realms of artificial intelligence.</h4>
+
+<div>
   <p>
     <img src="https://komarev.com/ghpvc/?username=mustafakemal1729&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakemal1729" />
   </p>
@@ -28,7 +29,6 @@
 
 </div>
 
-<br>
 
 ### 💻 Programming
 
@@ -86,6 +86,7 @@
  </p>
  <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mustafakemal1729" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakemal1729&theme=material-palenight&hide_border=false" alt="mustafakemal" width="50%" />
       </p>
 
  <p>
