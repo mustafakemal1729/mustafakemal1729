@@ -3,7 +3,7 @@
 </div>
 
 <h1>Who am I</h1>
-<h4>Electrical & Electronics Engineering graduate with a deep curiosity for the realms of artificial intelligence.</h4>
+<h4>Electrical & Electronics Engineering graduate with a deep interest in the realms of artificial intelligence.</h4>
 
 <div>
   <p>
@@ -11,19 +11,22 @@
   </p>
 </div>
 
+### 🤖 Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/mustafakemal73?theme=unicorn&font=Lusitana)
+
 ## 📇 Social & Contact
 
 <div align="left">
   
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
     <a href="mailto:mkemalzahiroglu@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="mustafakemal E-mail Address" />
+    <img src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mustafakemal E-mail Address" />
   </a>
   <a href="https://www.linkedin.com/in/mustafakemal1729" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="mustafa kemal LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mustafa kemal LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/mustafakemal73" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" alt="mustafa kemal HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="mustafa kemal HackerRank" />
   </a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -87,5 +90,4 @@
  <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mustafakemal1729" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakemal1729&theme=material-palenight&hide_border=false" alt="mustafakemal" width="50%" />
-      </p>
-  
+  </p>
