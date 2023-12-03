@@ -80,18 +80,3 @@
   <img alt="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Windows_icon.svg/2048px-Windows_icon.svg.png" width="40", height="40"/>
   <img alt="OSX" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/apple-ios-system-platform-os-mac-linux-512.png" width="40" height="40" />
 </p>
-
-### 🐙 Github Stats
-
- <p>
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&theme=material-palenight&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> 
-      </a>
- </p>
- <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=material-palenight&hide_border=true&show_icons=true&count_private=true" alt="Mustafa Kemal's GitHub Stats" /> 
-      </a>
-    <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mustafakemal1729&theme=material-palenight&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Mustafa Kemal's GitHub Readme Streak Stats" />
-      </a>
-  </div>
