@@ -84,9 +84,9 @@
 ### 🐙 Github Stats
 
  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mustafakemal" />
+    <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mustafakemal" />
  </p>
  <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mustafakemal1729" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakemal1729&theme=material-palenight&hide_border=false" alt="mustafakemal" width="50%" />
+   <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mustafakemal" />
+    <img decoding="async" loading="lazy" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakemal1729&theme=material-palenight&hide_border=false" alt="mustafakemal" width="50%" />
   </p>
