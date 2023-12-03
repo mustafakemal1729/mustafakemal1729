@@ -84,9 +84,14 @@
 ### 🐙 Github Stats
 
  <p>
-    <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mustafakemal" />
+   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakemal1729&theme=material-palenight&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> 
+      </a>
  </p>
  <div>
-   <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="mustafakemal" />
-    <img decoding="async" loading="lazy" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakemal1729&theme=material-palenight&hide_border=false" alt="mustafakemal" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=mustafakemal1729&theme=material-palenight&hide_border=true&show_icons=true&count_private=true" alt="Mustafa Kemal's GitHub Stats" /> 
+      </a>
+    <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mustafakemal1729&theme=material-palenight&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Mustafa Kemal's GitHub Readme Streak Stats" />
+      </a>
   </div>
