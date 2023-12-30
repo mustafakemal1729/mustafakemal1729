@@ -5,11 +5,6 @@
 <h1>Who am I</h1>
 <h4>Electrical & Electronics Engineering graduate with a deep interest in the realms of artificial intelligence.</h4>
 
-<div>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mustafakemal1729&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakemal1729" />
-  </p>
-</div>
 
 ### 🤖 Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mustafakemal73?theme=dark&font=Lusitana)
